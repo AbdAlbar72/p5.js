@@ -1,0 +1,23 @@
+body {
+    background-color: #ffe6f0; /* Soft pink background */
+    color: #5a2d82; /* Deep purple for text */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font */
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+#canvas-container {
+    width: 640px;
+    height: 480px;
+    margin: 0 auto;
+    position: relative;
+    background: white;
+}
